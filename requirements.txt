@@ -1,0 +1,14 @@
+langchain
+langchain_community
+langchain-google-genai
+python-dotenv
+streamlit
+langchain_experimental
+sentence-transformers
+langchain_chroma
+langchainhub
+pypdf
+protobuf==3.20.3
+pysqlite3-binary
+rapidocr-onnxruntime
+tqdm
